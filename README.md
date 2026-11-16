@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Luba Alqaysi
 
-<!--
-**luba-alqaysi/luba-alqaysi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Drug Discovery and Development (KSAU-HS, Riyadh), working toward a career in AI engineering.
 
-Here are some ideas to get you started:
+**What I work on**
+- Building AI applications: retrieval-augmented generation (RAG), embeddings and vector search, local LLMs
+- Data analysis and statistics in Python and R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project**
+- [ResearchMind AI](https://github.com/luba-alqaysi/researchmind-ai): an evidence-grounded research assistant that answers questions about scientific papers with page-level citations, and refuses when the papers don't cover the question.
+
+**Tools**
+Python · R · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · FAISS · Ollama · Streamlit
+
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/luba-a-836948307/)
